@@ -2,4 +2,4 @@
 
 An tutorial of pytorch architechture for learnner
 
-这是一个Pytorch API架构的入门相关文档
+## 这是一个Pytorch API架构的入门相关文档, 仅供自己学习使用，如果对你有帮助，不甚荣幸
